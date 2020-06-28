@@ -1,0 +1,4 @@
+Blockquotes
+To create a blockquote, add a > in front of a paragraph.
+
+> Dorothy followed her through many of the beautiful rooms

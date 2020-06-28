@@ -1,0 +1,4 @@
+<img src="path/to/img">
+
+
+![Tux, the Linux mascot](/assets/images/tux.png)

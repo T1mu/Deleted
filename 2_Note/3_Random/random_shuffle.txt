@@ -1,0 +1,11 @@
+Definition and Usage
+The shuffle() method takes a sequence (list, string, or tuple) and reorganize the order of the items.
+
+Syntax
+random.shuffle(sequence, function)
+
+Parameter Values
+Parameter	Description
+sequence	Required. A sequence. Can be a list, a tuple, or a string.
+function	Optional. The name of a function that returns a number between 0.0 and 1.0.
+If not specified, the function random() will be used
